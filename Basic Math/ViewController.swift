@@ -33,6 +33,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+
     //game 1.1
     
     @IBOutlet weak var colo1_1: UIButton!
